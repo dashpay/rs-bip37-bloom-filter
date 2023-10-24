@@ -1,0 +1,8 @@
+[package]
+name = "dashcore-bloom-filter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+murmur3 = "0.5.2"
+thiserror = "1.0.50"
