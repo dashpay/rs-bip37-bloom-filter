@@ -1,5 +1,5 @@
 [package]
-name = "dashcore-bloom-filter"
+name = "bip37-bloom-filter"
 version = "0.1.0"
 edition = "2021"
 
